@@ -1,0 +1,26 @@
+
+Chemicals Tradept 1921 203 1
+Chemicals Idustry 1787 7677 3
+Chemicals Tooling 744 1422 2
+Chemicals Ultrade 1646 5147 1
+Coal Promotech 1390 6926 2
+Coal Supplier.ly 1051 9171 3
+Composite Silot 1748 8401 1
+Copper Promotech 426 7134 3
+Electronics Ultrade 202 102 1
+Glass Sectories 1246 4541 1
+Lead Machinic 667 9806 1
+Metals Accultery 1207 8735 4
+Minerals InnovativeProductionCO 1997 4877 1
+Oil Marketics 988 9363 1
+Oil Sectories 1963 6779 3
+Ore Commercore 299 1892 1
+Planks Sectories 325 1870 3
+Wire Idustry 371 6648 2
+Wire Marketics 1413 4030 1
+Wood Sectories 1494 7110 1
+Wood Idustry 816 2954 2
+Wood Commercore 101 3077 2
+Wool Sectories 807 9817 4
+Wool Sectories 844 1637 2
+Wool Accultery 1467 530 2
